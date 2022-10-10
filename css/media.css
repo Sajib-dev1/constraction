@@ -1,0 +1,1153 @@
+@media(min-width:1200px) and (max-width:1399px){
+    /* =========Banner part start============= */
+    .ban_head h1 {
+        font-size: 54px;
+    }
+    .ban_victor {
+        bottom: -318px;
+        left: -11px;
+    }
+    .ban_top {
+        top: 96px;
+    }
+    .ban_bottom {
+        right: -309px;
+    }
+    /* =========Banner part End=============== */
+    /* =========About part start=============== */
+    .about_svg {
+        bottom: 36px;
+    }
+    .nicescroll-cursors {
+        height: 196px !important;
+    }
+    /* =========About part End=============== */
+    /* =========Contact part start=============== */
+    .mape_contact img {
+        width: 786px;
+    }
+    /* =========Contact part End=============== */
+}
+@media(min-width:992px) and (max-width:1199px) {
+    /* =========banner part start=============== */
+    .ban_counter {
+        margin-top: 62px;
+    }
+    .ban_head h1 {
+        font-size: 50px;
+    }
+    .ban_counter {
+        margin-left: 0px;
+    }
+    .ban_counter {
+        justify-content: start;
+        flex-wrap: nowrap;
+    }
+    .ban_item {
+        margin-right: 39px;
+    }
+    .ban_img img {
+        width: 500px !important;
+        height: 784px !important;
+        border-radius: 10px 10px 10px 310px;
+}
+.ban_top {
+	top: 106px;
+	left: -58px;
+	width: 150px;
+	height: 194px;
+	border-radius: 77px 5px 5px 5px;
+}
+.ban_bottom {
+	bottom: -99px;
+	right: -267px;
+	width: 240px;
+	height: 156px;
+}
+.ban_victor {
+	bottom: -260px;
+	left: 77px;
+}
+.ban_victor img {
+	width: 100%;
+	height: 100%;
+	margin: 0 -60px;
+}
+
+    /* =========banner part end================= */
+    /* =========brand part start=============== */
+    #brand {
+        margin-top: 107px;
+    }
+    /* =========brand part end================= */
+    /* =========text part start=============== */
+    .text_hed p {
+        font-size: 17px;
+        padding-right: 0px;
+    }
+    .text_hadding h3 {
+        font-size: 48px;
+    }
+    /* =========text part end================= */
+    /* =========About part start=============== */
+    .about_img img {
+        height: 700px !important;
+    }
+    .about_wrepp {
+        margin-bottom: 44px;
+    }
+    .about_svg {
+        bottom: 51px;
+        left: -30px;
+    }
+    .about_text p {
+        font-size: 17px;
+        padding: 0 0px;
+        padding-top: 14px;
+    }
+    .about_text {
+        width: 70%;
+    }
+    /* =========About part end================= */
+    /* =========Enginiar part start=============== */
+    .head h3 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .head p {
+        font-size: 18px;
+    }
+    /* =========Enginiar part end================= */
+    /* =========Contact part start=============== */
+    .form_input {
+        margin-bottom: 0px;
+    }
+    .form_input input {
+        height: 55px;
+    }
+    .form_input textarea {
+        height: 179px;
+    }
+    .mape_contact img {
+        width: 690px;
+    }
+    /* =========Contact part end================= */
+    /* =========Lattest part start=============== */
+    .nicescroll-cursors {
+        height: 234px !important;
+    }
+    /* =========Lattest part end================= */
+    /* =========subscrive part start=============== */
+    .sub_head h3 {
+        font-size: 50px;
+    }
+    /* =========subscrive part end================= */
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    /* ========navber part start=========== */
+
+    #menu-wrapper #hamburger-menu {
+        margin: 20px 91%;
+    }
+
+    .navbar {
+        padding-top: 15px;
+        position: static;
+    }
+
+    .navbar-brand {
+        margin-top: -7px;
+    }
+
+    /* ========navber part end=========== */
+    /* ========banner part start=========== */
+    .ban_top {
+        display: none;
+    }
+
+    .ban_bottom {
+        display: none;
+    }
+
+    .ban_img img {
+        width: 100% !important;
+        height: 500px !important;
+        top: 15px;
+        border-radius: 10px 10px 10px 281px;
+        object-fit: cover;
+        -webkit-border-radius: 10px 10px 10px 281px;
+        -moz-border-radius: 10px 10px 10px 281px;
+        -ms-border-radius: 10px 10px 10px 281px;
+        -o-border-radius: 10px 10px 10px 281px;
+    }
+
+    .ban_head h1 {
+        font-size: 50px;
+        line-height: 120%;
+        margin-top: 50px;
+        padding-right: 0px;
+        text-align: center;
+    }
+
+    .ban_head p {
+        font-size: 17px;
+        margin-top: 30px;
+        padding: 0px 88px;
+        text-align: center;
+    }
+
+    .ban_btn {
+        text-align: center;
+    }
+
+    .ban_btn button {
+        font-size: 17px;
+        width: 200px;
+        margin-top: 5px;
+        padding: 12px 0;
+        margin-right: 10px;
+    }
+
+    .ban_counter {
+        justify-content: center;
+        margin-left: 0px;
+        margin-top: 70px;
+    }
+
+    .ban_item {
+        text-align: center;
+        margin: 10px 12px;
+    }
+
+    .ban_item:first-child {
+        margin-left: 0;
+    }
+
+    .ban_item:last-child {
+        margin-right: 0;
+    }
+
+    .middle {
+        left: 7px;
+    }
+
+    .right {
+        left: 30px;
+    }
+
+    .ban_victor {
+        display: none;
+    }
+
+    /* ========banner part end=========== */
+    /* =========Brand part start========= */
+    #brand {
+        margin-top: 50px;
+    }
+
+    /* =========Brand part end========= */
+    /* =========Text part star========= */
+    #text {
+        margin-top: 54px;
+        text-align: center;
+    }
+
+    .text_hadding h3 {
+        font-size: 40px;
+    }
+
+    .text_hed p {
+        padding-right: 77px;
+        margin-top: 25px;
+        padding-left: 77px;
+    }
+
+    /* =========Text part end========= */
+    /* =========About part start========= */
+    .about_img img {
+        height: 600px !important;
+        width: 100%;
+    }
+
+    .about_wrepp {
+        justify-content: center;
+        margin-bottom: 70px;
+        padding: 0 66px;
+    }
+
+    .top_margin {
+        margin-top: 70px;
+    }
+
+    /* =========About part end========= */
+    /* =========Engineer part start========= */
+    #engineer {
+        margin-top: 10px;
+        margin-bottom: 80px;
+    }
+
+    /* =========Engineer part end========= */
+    /* =========message part start========= */
+    #message_part {
+        padding-top: 100px;
+        padding-bottom: 180px;
+        margin-bottom: 50px;
+    }
+
+    .message_item p {
+        font-size: 17px;
+        padding: 0 60px;
+    }
+
+    .massage_top {
+        top: 70px;
+        left: 1px;
+    }
+
+    .massage_top img {
+        width: 60px;
+        height: 50px;
+    }
+
+    .massage_btn {
+        bottom: -43px;
+        right: 24px;
+    }
+
+    .massage_btn img {
+        width: 60px;
+        height: 50px;
+    }
+
+    /* =========message part end========= */
+    /* =========Contact part start========= */
+    #contact {
+        margin-bottom: 50px;
+    }
+
+    .head p {
+        padding: 0 82px;
+    }
+
+    .from_btn {
+        text-align: center;
+    }
+
+    .form_input {
+        margin-bottom: 5px;
+    }
+
+    .mape_contact img {
+        width: 100%;
+        left: 0;
+    }
+
+    /* =========Contact part end========= */
+    /* =========letter part start========= */
+    #leters {
+        margin-top: 50px;
+    }
+    .images {
+        margin-bottom: 24px;
+    }
+    .lat_text {
+        bottom: 31px;
+    }
+    .lat_text h4 {
+        font-size: 26px;
+        margin-bottom: 10px;
+    }
+    .lat_text p {
+        font-size: 16px;
+    }
+    .lett_btn a {
+        font-size: 15px;
+        padding: 12px 0;
+        width: 200px;
+        margin-top: 5px;
+    }
+
+    /* =========letter part end========= */
+    /* =========subscrive part start========= */
+    .sub_head h3 {
+        font-size: 40px;
+        line-height: 44px;
+        padding: 0 183px;
+    }
+
+    .sub_head p {
+        font-size: 18px;
+        padding: 0 93px;
+    }
+
+    .sub_btn button {
+        width: 193px;
+        font-size: 14px;
+    }
+
+    /* =========subscrive part end========= */
+    /* ========footre part start=========== */
+    .contact p {
+        font-size: 13px;
+        padding-right: 138px;
+        line-height: 18px;
+    }
+
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .recors {
+        margin-bottom: 50px;
+    }
+
+    .recors ul li {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .companny {
+        margin-bottom: 50px;
+    }
+
+    .companny ul li {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .tuch {
+        margin-bottom: 50px;
+    }
+
+    .ght {
+        padding-bottom: 0px;
+        border-bottom: 1px solid #F4F4F4;
+    }
+
+    /* ========footre part end=========== */
+    /* ========coppy part start=========== */
+    .coppy p {
+        font-size: 13px;
+        margin-top: -34px;
+    }
+
+    /* ========coppy part end=========== */
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /* ========navber part start=========== */
+    #menu-wrapper #hamburger-menu {
+        margin: 20px 91%;
+    }
+
+    .navbar {
+        padding-top: 8px;
+        position: static;
+    }
+
+    /* ========navber part end=========== */
+    /* ========banner part start=========== */
+    .ban_top {
+        display: none;
+    }
+
+    .ban_bottom {
+        display: none;
+    }
+
+    .ban_img img {
+        width: 100% !important;
+        height: 250px !important;
+        top: 8px;
+        border-radius: 10px 10px 10px 10px;
+        object-fit: cover;
+    }
+
+    .ban_head h1 {
+        font-size: 40px;
+        line-height: 100%;
+        margin-top: 40px;
+    }
+
+    .ban_head p {
+        font-size: 14px;
+        margin-top: 30px;
+        padding-right: 0px;
+    }
+
+    .ban_btn button {
+        font-size: 13px;
+        width: 133px;
+        margin-top: 5px;
+        padding: 10px 0;
+        margin-right: 10px;
+    }
+
+    .ban_counter {
+        justify-content: center;
+        margin-left: 0px;
+        margin-top: 70px;
+    }
+
+    .ban_item {
+        text-align: center;
+        margin: 12px 65px;
+    }
+    .middle {
+        left: 7px;
+    }
+
+    .right {
+        left: 30px;
+    }
+
+    .ban_victor {
+        display: none;
+    }
+
+    /* ========banner part end=========== */
+    /* ========brand part start=========== */
+    #brand {
+        margin-top: 50px;
+    }
+
+    .brand_wrepper {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    /* ========brand part end=========== */
+    /* ========text part start=========== */
+    #text {
+        margin-top: 50px;
+    }
+
+    .text_hadding h3 {
+        font-size: 30px;
+    }
+
+    .text_hed p {
+        font-size: 14px;
+        padding-right: 0px;
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+
+    .text_hed button {
+        font-size: 13px;
+        width: 160px;
+        padding: 10px 0;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .text_hed {
+        text-align: center;
+    }
+
+    .text_hadding {
+        text-align: center;
+    }
+
+    /* ========text part end=========== */
+    /* ========about part start=========== */
+    .about_img img {
+        height: 431px !important;
+        width: 100%;
+    }
+
+    .top_margin {
+        margin-top: 50px;
+    }
+
+    .about_wrepp {
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .about_number {
+        display: block;
+        margin: 45px auto;
+    }
+
+    .about_svg {
+        bottom: -36px;
+    }
+
+    .about_text {
+        width: 100%;
+    }
+
+    .about_text p {
+        font-size: 14px;
+        padding: 0px 0px;
+        text-align: center;
+        line-height: 20px;
+    }
+
+    /* ========about part end=========== */
+    /* ========Engineer part start=========== */
+    #engineer {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    .head h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .head p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+
+    .padd {
+        padding-bottom: 30px;
+    }
+
+    /* ========Engineer part end=========== */
+    /* ========message part start=========== */
+    #message_part {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin-bottom: 50px;
+    }
+
+    .message_item h3 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 80px;
+    }
+
+    .message_item p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .massage_top {
+        top: 72px;
+        left: -5px;
+    }
+
+    .massage_top img {
+        width: 40px;
+        height: 30px;
+    }
+
+    .massage_btn {
+        bottom: -27px;
+        right: -0;
+    }
+
+    .massage_btn img {
+        width: 40px;
+        height: 30px;
+    }
+
+    .message_item p span {
+        margin-top: 20px;
+    }
+
+    /* ========message part end=========== */
+    /* ========contact part start=========== */
+    #contact {
+        margin-bottom: 50px;
+    }
+
+    .form_input input {
+        height: 40px;
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .form_input {
+        margin-bottom: 0px;
+    }
+
+    .form_input textarea {
+        height: 119px;
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .from_btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .from_btn button {
+        font-size: 13px;
+        padding: 10px 0;
+        width: 160px;
+    }
+
+    .mape_contact img {
+        width: 100%;
+        top: 16px;
+        left: 0px;
+    }
+
+    /* ========contact part end=========== */
+    /* ========lattest part start=========== */
+    #leters {
+        margin-top: 50px;
+    }
+    .images {
+        margin-bottom: 24px;
+    }
+    .lat_text {
+        bottom: 31px;
+    }
+    .lat_text h4 {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+    .lat_text p {
+        font-size: 14px;
+    }
+    .lett_btn a {
+        font-size: 13px;
+        padding: 10px 0;
+        width: 170px;
+        margin-top: 5px;
+    }
+    .nicescroll-cursors {
+        height: 31px !important;
+    }
+    .nicescroll-rails {
+        top: 5101.82px !important;
+        height: 495px !important;
+    }
+    /* ========lattest part end=========== */
+    /* ========subscrivr part start=========== */
+    #subscrive {
+        margin-bottom: 60px;
+    }
+
+    .sub_head h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .sub_head p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0 0px;
+        margin-top: 17px;
+    }
+
+    .sub_btn button {
+        width: 170px;
+        padding: 10px 0;
+        font-size: 13px;
+        margin-top: 6px;
+    }
+
+    /* ========subscrivr part end=========== */
+    /* ========footre part start=========== */
+    .contact p {
+        font-size: 13px;
+        padding-right: 0px;
+        line-height: 18px;
+    }
+
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .recors {
+        margin-bottom: 50px;
+    }
+
+    .recors ul li {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .companny {
+        margin-bottom: 50px;
+    }
+
+    .companny ul li {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .tuch {
+        margin-bottom: 50px;
+    }
+
+    .ght {
+        padding-bottom: 0px;
+        border-bottom: 1px solid #F4F4F4;
+    }
+
+    /* ========footre part end=========== */
+    /* ========coppy part start=========== */
+    .coppy p {
+        font-size: 13px;
+        margin-top: -34px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* ========coppy part end=========== */
+    /* =================================== */
+    /* =================================== */
+    /* =================================== */
+    /* =================================== */
+}
+
+@media(max-width :575.99px) {
+
+    /* ========navber part start=========== */
+    .navbar {
+        padding-top: 8px;
+        position: static;
+    }
+
+    /* ========navber part end=========== */
+    /* ========banner part start=========== */
+    .ban_top {
+        display: none;
+    }
+
+    .ban_bottom {
+        display: none;
+    }
+
+    .ban_img img {
+        width: 100% !important;
+        height: 250px !important;
+        top: 8px;
+        border-radius: 10px 10px 10px 10px;
+        object-fit: cover;
+    }
+
+    .ban_head h1 {
+        font-size: 40px;
+        line-height: 100%;
+        margin-top: 40px;
+    }
+
+    .ban_head p {
+        font-size: 14px;
+        margin-top: 30px;
+        padding-right: 0px;
+    }
+
+    .ban_btn button {
+        font-size: 13px;
+        width: 133px;
+        margin-top: 5px;
+        padding: 10px 0;
+        margin-right: 10px;
+    }
+
+    .ban_counter {
+        justify-content: center;
+        margin-left: 0px;
+        margin-top: 70px;
+    }
+
+    .ban_item {
+        text-align: center;
+        margin: 12px 65px;
+    }
+    .middle {
+        left: 7px;
+    }
+
+    .right {
+        left: 30px;
+    }
+
+    .ban_victor {
+        display: none;
+    }
+
+    /* ========banner part end=========== */
+    /* ========brand part start=========== */
+    #brand {
+        margin-top: 50px;
+    }
+
+    .brand_wrepper {
+        padding-top: 35px;
+        padding-bottom: 35px;
+    }
+
+    /* ========brand part end=========== */
+    /* ========text part start=========== */
+    #text {
+        margin-top: 50px;
+    }
+
+    .text_hadding h3 {
+        font-size: 30px;
+    }
+
+    .text_hed p {
+        font-size: 14px;
+        padding-right: 0px;
+        margin-top: 20px;
+        padding-left: 0px;
+    }
+
+    .text_hed button {
+        font-size: 13px;
+        width: 160px;
+        padding: 10px 0;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+    .text_hed {
+        text-align: center;
+    }
+
+    /* ========text part end=========== */
+    /* ========about part start=========== */
+    .about_img img {
+        height: 431px !important;
+        width: 100%;
+    }
+
+    .top_margin {
+        margin-top: 50px;
+    }
+
+    .about_wrepp {
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .about_number {
+        display: block;
+        margin: 45px auto;
+    }
+
+    .about_svg {
+        bottom: -36px;
+    }
+
+    .about_text {
+        width: 100%;
+    }
+
+    .about_text p {
+        font-size: 14px;
+        padding: 0px 0px;
+        text-align: center;
+        line-height: 20px;
+    }
+
+    /* ========about part end=========== */
+    /* ========Engineer part start=========== */
+    #engineer {
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+
+    .head h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .head p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+
+    .padd {
+        padding-bottom: 30px;
+    }
+
+    /* ========Engineer part end=========== */
+    /* ========message part start=========== */
+    #message_part {
+        padding-top: 100px;
+        padding-bottom: 100px;
+        margin-bottom: 50px;
+    }
+
+    .message_item h3 {
+        font-size: 30px;
+        line-height: 30px;
+        margin-bottom: 80px;
+    }
+
+    .message_item p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .massage_top {
+        top: 72px;
+        left: -5px;
+    }
+
+    .massage_top img {
+        width: 40px;
+        height: 30px;
+    }
+
+    .massage_btn {
+        bottom: -27px;
+        right: -0;
+    }
+
+    .massage_btn img {
+        width: 40px;
+        height: 30px;
+    }
+
+    .message_item p span {
+        margin-top: 20px;
+    }
+
+    /* ========message part end=========== */
+    /* ========contact part start=========== */
+    #contact {
+        margin-bottom: 50px;
+    }
+
+    .form_input input {
+        height: 40px;
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .form_input {
+        margin-bottom: 0px;
+    }
+
+    .form_input textarea {
+        height: 119px;
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .from_btn {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .from_btn button {
+        font-size: 13px;
+        padding: 10px 0;
+        width: 160px;
+    }
+
+    .mape_contact img {
+        width: 100%;
+        top: 16px;
+        left: 0px;
+    }
+
+    /* ========contact part end=========== */
+    /* ========lattest part start=========== */
+    #leters {
+        margin-top: 50px;
+    }
+    .images {
+        margin-bottom: 24px;
+    }
+    .lat_text {
+        bottom: 31px;
+    }
+    .lat_text h4 {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+    .lat_text p {
+        font-size: 14px;
+    }
+    .lett_btn a {
+        font-size: 13px;
+        padding: 10px 0;
+        width: 170px;
+        margin-top: 5px;
+    }
+    /* ========lattest part end=========== */
+    /* ========subscrivr part start=========== */
+    #subscrive {
+        margin-bottom: 60px;
+    }
+
+    .sub_head h3 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .sub_head p {
+        font-size: 14px;
+        line-height: 22px;
+        padding: 0 0px;
+        margin-top: 17px;
+    }
+
+    .sub_btn button {
+        width: 170px;
+        padding: 10px 0;
+        font-size: 13px;
+        margin-top: 6px;
+    }
+
+    /* ========subscrivr part end=========== */
+    /* ========footre part start=========== */
+    .contact p {
+        font-size: 13px;
+        padding-right: 0px;
+        line-height: 18px;
+    }
+
+    .contact {
+        margin-bottom: 50px;
+    }
+
+    .recors {
+        margin-bottom: 50px;
+    }
+
+    .recors ul li {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .companny {
+        margin-bottom: 50px;
+    }
+
+    .companny ul li {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+
+    .tuch {
+        margin-bottom: 50px;
+    }
+
+    .ght {
+        padding-bottom: 0px;
+        border-bottom: 1px solid #F4F4F4;
+    }
+
+    /* ========footre part end=========== */
+    /* ========coppy part start=========== */
+    .coppy p {
+        font-size: 13px;
+        margin-top: -34px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* ========coppy part end=========== */
+}
